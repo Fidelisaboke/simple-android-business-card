@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="full_name_label">Full Name</string>
+    <string name="phone_label">Phone</string>
+    <string name="email_label">Email</string>
+    <string name="full_name_data">Fidel Isaboke</string>
+    <string name="phone_number_data">123-456-7890</string>
+    <string name="email_data">fidelisaboke@gmail.com</string>
+    <string name="title_data">Developer</string>
+</resources>
