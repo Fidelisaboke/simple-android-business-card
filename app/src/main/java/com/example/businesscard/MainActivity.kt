@@ -93,7 +93,7 @@ fun CardHeading(modifier: Modifier = Modifier) {
             text = stringResource(R.string.title_data),
             fontSize = 20.sp,
             color = Color.White,
-            lineHeight = 32.sp,
+            lineHeight = 48.sp,
         )
     }
 }
